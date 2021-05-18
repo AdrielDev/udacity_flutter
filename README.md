@@ -1,7 +1,7 @@
 # Exercises Udacity Flutter
 
 ## Purposes
-- Armazenar exercícios realizados durante o curso udacity.
+- Store exercises performed during the udacity course.
 
 ## Details
 - Course know Flutter
