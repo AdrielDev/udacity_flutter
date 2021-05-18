@@ -38,7 +38,7 @@ class CategoryWidget extends StatelessWidget {
               Container(
                 padding: const EdgeInsets.all(15.0),
                 child: Text(
-                  "Cake",
+                  categoryName,
                   style: TextStyle(fontSize: 24.0),
                   textAlign: TextAlign.center,
                 ),
