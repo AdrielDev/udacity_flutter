@@ -10,7 +10,7 @@ Chosen to replicate the nubank app, more specifically the main menu.
 ## Preview
 App original
 ![screenshot](https://i.ibb.co/KGSDj3N/Whats-App-Image-2021-05-20-at-20-47-03.jpg)
-
+---
 Copy made
 ![screenshot](https://i.ibb.co/pWvZx88/Screenshot-1621551402.png)
 
